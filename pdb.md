@@ -1,15 +1,15 @@
-Python Debugger 
-
-Use breakpoint() in code to put breakpoint.
-Run code and pdb will automatically start debugging.
-
-Commands:
--h(elp) - show commands list
--q(uit) - stop debugging
--n(ext) - jump to next breakpoint
--w(here) - prints current frame
--u(p) [count] - frame up
--d(own) [count]- frame down
+Python Debugger\
+\
+Use breakpoint() in code to put breakpoint.\
+Run code and pdb will automatically start debugging.\
+\
+Commands:\
+-h(elp) - show commands list\
+-q(uit) - stop debugging\
+-n(ext) - jump to next breakpoint\
+-w(here) - prints current frame\
+-u(p) [count] - frame up\
+-d(own) [count]- frame down\
 -b(reak) - set breakpoint
 -tbreak - set temp breakpoint
 -cl(ear) [number] - clear breakpoints 
