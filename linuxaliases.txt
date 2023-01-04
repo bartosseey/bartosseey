@@ -1,0 +1,10 @@
+alias gs="git status"
+alias gl="git log"
+alias glo5="git log -5 --oneline"
+alias glo10="git log -10 --oneline"
+alias ga="git add"
+alias gph='git push origin "$(git symbolic-ref --short HEAD)"'
+alias gpl='git pull origin "$(git symbolic-ref --short HEAD)"'
+alias gplr='git pull --rebase origin "$(git symbolic-ref --short HEAD)"'
+alias gc='git checkout'
+alias gm='git commit'
